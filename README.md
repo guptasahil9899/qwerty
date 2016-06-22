@@ -1,2 +1,2 @@
 # qwerty
-sample project
+sample projec
